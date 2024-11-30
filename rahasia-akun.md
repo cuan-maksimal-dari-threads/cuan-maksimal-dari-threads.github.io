@@ -14,6 +14,8 @@ Tapi, terus-menerus memberikan konten terkait psikologi seperti tentang kesehata
 
 Nah, dengan sering membantu orang lain, orang-orang akan akrab dengan kita dan secara otomatis pasti akan terbentuk di mindset-nya: Oh, orang ini ngerti tentang psikologi.
 
+> Ingin dibimbing secara intensif personal branding? [Klik untuk private coaching dengan Coach Ricca Nourma](https://lynk.id/zenhacker/nba24yM)
+
 ## Fokus
 
 Kalau kita sudah memutuskan membahas psikologi misalnya di akun kita, fokus aja terus membahas hal itu. Jangan berubah-ubah. Hari ini psikologi, besok bahas masak-masak, besok bahas jalan-jalan. Nggak terbentuk nanti akun kita kalau nggak fokus di satu titik. Ingat, kita di sini bahas bisnis. Jadi, harus fokus supaya bisa menghasilkan profit.

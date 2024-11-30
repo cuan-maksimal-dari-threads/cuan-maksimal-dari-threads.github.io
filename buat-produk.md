@@ -9,3 +9,5 @@ Kalau ebook, bisa pakai Microsoft Word, diketik. Terus, kalau sudah selesai, exp
 Kalau video, bisa buat video YouTube, publish, tapi setting privasinya sebagai Tidak Publik.
 
 Diingat ya, dalam produk ini, buatlah sesuai niatan ingin membantu orang yang membeli produk kita. Jadi, buatlah semaksimal mungkin. Bebas mau pakai AI atau tidak. Yang penting, kita sebagai orang yang membuat produk, berusaha semaksimal mungkin membuat produk yang bagus.
+
+> Ingin dibimbing cara buat ebook yang berkualitas? [Daftar sekarang](https://lynk.id/zenhacker/9BlJjQ0)
