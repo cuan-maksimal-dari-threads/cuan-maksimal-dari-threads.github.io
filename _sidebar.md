@@ -4,7 +4,7 @@
 - Buat Produk
   - [Buat Toko](./buat-toko.md)
   - [Buat Produk](./buat-produk.md)
-    - Dua Macam Produk
-  - Sisipkan Affiliate
-  - Jual di Toko
-- Promosi di Threads
+    - [Dua Macam Produk](./dua-macam-produk.md)
+  - [Sisipkan Affiliate](./sisipkan-affiliate.md)
+  - [Jual di Toko](./jual-di-toko.md)
+- [Promosi di Threads](./promosi-di-threads.md)
