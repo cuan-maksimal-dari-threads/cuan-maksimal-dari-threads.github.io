@@ -11,3 +11,7 @@ Total pendapatan Lynk:
 Total pendapatan Clicky:
 
 ![Pendapatan Clicky](./gambar/pendapatan-clicky.png)
+
+## Support
+
+Kalau ada di ebook ini yang kurang dipahami, [WA aku ya](https://wa.me/6281545143654).
