@@ -1,9 +1,9 @@
 - [Beranda](/)
-- Buat Akun
-  - Rahasia Akun
+- [Buat Akun Threads](./buat-akun.md)
+  - [Rahasia Akun](./rahasia-akun.md)
 - Buat Produk
-  - Buat Toko
-  - Buat Produk
+  - [Buat Toko](./buat-toko.md)
+  - [Buat Produk](./buat-produk.md)
     - Dua Macam Produk
   - Sisipkan Affiliate
   - Jual di Toko
